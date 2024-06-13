@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "greeting",
+      "type": "org.kirill.kozlov.spring_actuator_demo.entity.Greeting",
+      "sourceType": "org.kirill.kozlov.spring_actuator_demo.entity.Greeting"
+    }
+  ],
+  "properties": [
+    {
+      "name": "greeting.coffee",
+      "type": "java.lang.String",
+      "sourceType": "org.kirill.kozlov.spring_actuator_demo.entity.Greeting"
+    },
+    {
+      "name": "greeting.name",
+      "type": "java.lang.String",
+      "sourceType": "org.kirill.kozlov.spring_actuator_demo.entity.Greeting"
+    }
+  ],
+  "hints": []
+}
