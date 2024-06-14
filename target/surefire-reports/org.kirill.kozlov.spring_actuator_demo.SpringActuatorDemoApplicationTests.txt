@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.kirill.kozlov.spring_actuator_demo.SpringActuatorDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.262 s -- in org.kirill.kozlov.spring_actuator_demo.SpringActuatorDemoApplicationTests
