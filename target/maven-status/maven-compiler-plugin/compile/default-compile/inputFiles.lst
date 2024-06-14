@@ -1,6 +1,8 @@
 /home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/SpringActuatorDemoApplication.java
 /home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/config/DataLoader.java
+/home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/controller/DroidController.java
 /home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/controller/GreetingController.java
 /home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/entity/Coffee.java
+/home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/entity/Droid.java
 /home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/entity/Greeting.java
 /home/cell/IdeaProjects/iCody-new-2024/sb-example-from-book/spring-actuator-demo/src/main/java/org/kirill/kozlov/spring_actuator_demo/repository/CoffeeRepository.java

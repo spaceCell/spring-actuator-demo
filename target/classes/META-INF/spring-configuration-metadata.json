@@ -1,12 +1,28 @@
 {
   "groups": [
     {
+      "name": "droid",
+      "type": "org.kirill.kozlov.spring_actuator_demo.entity.Droid",
+      "sourceType": "org.kirill.kozlov.spring_actuator_demo.SpringActuatorDemoApplication",
+      "sourceMethod": "createDroid()"
+    },
+    {
       "name": "greeting",
       "type": "org.kirill.kozlov.spring_actuator_demo.entity.Greeting",
       "sourceType": "org.kirill.kozlov.spring_actuator_demo.entity.Greeting"
     }
   ],
   "properties": [
+    {
+      "name": "droid.description",
+      "type": "java.lang.String",
+      "sourceType": "org.kirill.kozlov.spring_actuator_demo.entity.Droid"
+    },
+    {
+      "name": "droid.id",
+      "type": "java.lang.String",
+      "sourceType": "org.kirill.kozlov.spring_actuator_demo.entity.Droid"
+    },
     {
       "name": "greeting.coffee",
       "type": "java.lang.String",

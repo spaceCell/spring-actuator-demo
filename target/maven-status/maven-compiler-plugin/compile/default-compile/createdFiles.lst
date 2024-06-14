@@ -2,6 +2,8 @@ org/kirill/kozlov/spring_actuator_demo/SpringActuatorDemoApplication.class
 org/kirill/kozlov/spring_actuator_demo/config/DataLoader.class
 META-INF/spring-configuration-metadata.json
 org/kirill/kozlov/spring_actuator_demo/controller/GreetingController.class
+org/kirill/kozlov/spring_actuator_demo/entity/Droid.class
+org/kirill/kozlov/spring_actuator_demo/controller/DroidController.class
 org/kirill/kozlov/spring_actuator_demo/repository/CoffeeRepository.class
 org/kirill/kozlov/spring_actuator_demo/entity/Coffee.class
 org/kirill/kozlov/spring_actuator_demo/entity/Greeting.class
